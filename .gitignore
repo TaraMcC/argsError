@@ -1,0 +1,26 @@
+# OSX
+#
+.DS_Store
+
+# Android/IntelliJ
+#
+.idea
+.gradle
+local.properties
+
+# node.js
+#
+node_modules/
+npm-debug.log
+yarn-error.log
+
+dist/
+.platform-api
+
+.jest/
+.env
+!.env.example
+.aws-sam
+packaged.yaml
+coverage/
+/packages/channels/src/generated/
